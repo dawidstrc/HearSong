@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HearSongConsole/1.0.0": {
+        "dependencies": {
+          "HearSongLib": "1.0.0"
+        },
+        "runtime": {
+          "HearSongConsole.dll": {}
+        }
+      },
+      "DDD.Base/1.0.0": {
+        "runtime": {
+          "DDD.Base.dll": {}
+        }
+      },
+      "HearSongLib/1.0.0": {
+        "dependencies": {
+          "DDD.Base": "1.0.0"
+        },
+        "runtime": {
+          "HearSongLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HearSongConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDD.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HearSongLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

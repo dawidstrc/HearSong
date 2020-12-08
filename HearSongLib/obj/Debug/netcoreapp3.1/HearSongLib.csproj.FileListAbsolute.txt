@@ -1,0 +1,24 @@
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.deps.json
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.dll
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.pdb
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\bin\Debug\netcoreapp3.1\DDD.Base.dll
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\bin\Debug\netcoreapp3.1\DDD.Base.pdb
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csprojAssemblyReference.cache
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.AssemblyInfoInputs.cache
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.AssemblyInfo.cs
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csproj.CoreCompileInputs.cache
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csproj.CopyComplete
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.dll
+D:\Studia\Praca dyplomowa\Najważniejsze\TUTAJ SCALAMY PRACĘ\HearSongConsole\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.pdb
+D:\KNMentor\GitHub\HearSong\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.deps.json
+D:\KNMentor\GitHub\HearSong\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.dll
+D:\KNMentor\GitHub\HearSong\HearSongLib\bin\Debug\netcoreapp3.1\HearSongLib.pdb
+D:\KNMentor\GitHub\HearSong\HearSongLib\bin\Debug\netcoreapp3.1\DDD.Base.dll
+D:\KNMentor\GitHub\HearSong\HearSongLib\bin\Debug\netcoreapp3.1\DDD.Base.pdb
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csprojAssemblyReference.cache
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.AssemblyInfoInputs.cache
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.AssemblyInfo.cs
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csproj.CoreCompileInputs.cache
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.csproj.CopyComplete
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.dll
+D:\KNMentor\GitHub\HearSong\HearSongLib\obj\Debug\netcoreapp3.1\HearSongLib.pdb
